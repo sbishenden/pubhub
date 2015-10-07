@@ -1,5 +1,5 @@
 " .vimrc file modified by Dan Sheffner
-
+" add some additional comments
 " Lots of credit to:
 " Sample .vimrc file by Martin Brochhaus
 " Presented at PyCon APAC 2012
