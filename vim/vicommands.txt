@@ -1,0 +1,43 @@
+:q! - quit without saving
+:e! - revert to previously saved file
+:q - quits but will prompt if edits have been made
+:wq - quit and save any edits
+o - insert new line and enter insert mode
+i - enter insert mode
+a - append text after cursor
+c - change can be combined with c[i]w,c[i]b,cb or cw etc....  
+d - delete as above can be combined using [command][object] notation
+u - undo 
+U - toggle the undo
+CTRL-R - redo
+r - change a single character
+~ - change case
+x - delete a single character
+DD - delete entire line
+p - put, cut and paste fom delete buffer
+y - copy a selection into the buffer (used with put above)
+yy - yank the entire line
+[i]h - move left
+[i]j - move down
+[i]k - move up
+[i]l - move right
+CTRL-F - scroll forward 1 screen
+CTRL-B - scroll backward 1 screen
+CTRL-D - scroll forward half screen
+CTRL-U - scroll backward half screen
+0 - move to start of line
+$ - move to end of line
+:set nu - set line numbers
+:set nonu - turn off line numbers
+[i]w - move forwards 1 word at a time
+[i]W - move 1 word at a time ignoring punctuation and symbols
+[i]b - move backwards by 1 word
+[i]B - move backwards by 1 word ignoring punctuation and symbols
+[i]G - move to line number
+:set cc = [i] - set color column
+this is an addition that needs to change in order to finish this text 
+to change an addition that needs 
+
+to change an addition that needs 
+to change an addition that needs 
+yy - yank the entire line
